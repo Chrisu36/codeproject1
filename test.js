@@ -1,1 +1,1 @@
-console.log("hejsan från develop!");
+console.log("hejsan")
